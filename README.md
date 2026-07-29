@@ -229,28 +229,23 @@ Designed to document my learning journey.
 
   ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRIYASH-SINGH&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=PRIYASH-SINGH&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRIYASH-SINGH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYASH_SINGH&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYASH-SINGH&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYASH-SINGH&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PRIYASH-SINGH&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PRIYASH-SINGH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
 ---
 
 # 📈 Contribution Graph

@@ -8,7 +8,7 @@
 
 <p>
 
-<a href="https://github.com/priyash-0001">
+<a href="https://github.com/PRIYASH-SINGH">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -40,7 +40,7 @@ I believe that consistency beats talent when it comes to engineering. Every proj
 
 ## 🎯 Currently
 
-- 🎓 B.Tech CSE (5th Semester)
+- 🎓 B.Tech CS (5th Semester)
 - 💻 Learning Java & Software Engineering
 - 🤖 Exploring Artificial Intelligence
 - 📚 Practicing Data Structures & Algorithms
@@ -233,11 +233,11 @@ Designed to document my learning journey.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyash-0001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRIYASH-SINGH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyash-0001&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYASH_SINGH&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyash-0001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYASH-SINGH&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -247,7 +247,7 @@ Designed to document my learning journey.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyash-0001&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PRIYASH-SINGH&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -257,7 +257,7 @@ Designed to document my learning journey.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyash-0001&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYASH-SINGH&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -304,7 +304,7 @@ Open_To:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/priyash-0001">
+<a href="https://github.com/PRIYASH-SINGH">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

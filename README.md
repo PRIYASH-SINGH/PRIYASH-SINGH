@@ -1,307 +1,128 @@
-<div align="center">
-
-# Hi 👋, I'm Priyash Singh
-
-### Software Engineering Student • Java Developer • AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Software.;Learning+Artificial+Intelligence.;Always+Learning.;Future+Software+Engineer."/>
-
-<p>
-
-<a href="https://github.com/PRIYASH-SINGH">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/priyash-singh-518109337">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:pr.priyash.4779@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-![](https://komarev.com/ghpvc/?username=priyash-0001&style=for-the-badge&color=blueviolet)
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm **Priyash Singh**, a third-year B.Tech Computer Science student at **IMS Engineering College, Ghaziabad**.
-
-I enjoy learning by building real projects and continuously improving my software engineering skills. My current focus is strengthening my foundations in Java, backend development, data structures & algorithms, databases, and Artificial Intelligence.
-
-I believe that consistency beats talent when it comes to engineering. Every project I build teaches me something new, and my goal is to become an engineer who develops intelligent software powered by AI.
-
----
-
-## 🎯 Currently
-
-- 🎓 B.Tech CS (5th Semester)
-- 💻 Learning Java & Software Engineering
-- 🤖 Exploring Artificial Intelligence
-- 📚 Practicing Data Structures & Algorithms
-- 🚀 Building real-world projects
-- 🌱 Open to internships and collaborations
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,html,mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
-### Currently Learning
-
-- Artificial Intelligence
-- Backend Development
-- SQL
-- Git & GitHub
-- Data Structures & Algorithms
-
----
-
-# 🤖 AI Journey
-
-| Area | Status |
-|------|--------|
-| AI Fluency | Learning |
-| Prompt Engineering | Learning |
-| Machine Learning | Beginner |
-| LLM Applications | Learning |
-| AI Assisted Development | Active |
-
----
-
-# 💼 Experience
-
-## 🏢 Software Development Intern — Nimblize
-**June 2026 – Present**
-
-- Working on backend development concepts and software engineering practices.
-- Learning API integration, clean code principles, and project workflows.
-- Collaborating on technical tasks while improving problem-solving skills.
-- Gaining practical exposure to real-world development environments.
-
-**Tech Focus:** Backend • Git • APIs • Team Collaboration
-
----
-
-## 💻 Software Development Intern (Self Projects) — Prodigy Infotech
-**July 2026 – Present**
-
-- Building practical software projects from scratch.
-- Following GitHub-based development workflow.
-- Strengthening Java, Python, SQL, and problem-solving skills.
-- Developing projects with an emphasis on clean architecture and documentation.
-
-**Tech Focus:** Java • Python • GitHub • Software Development
-
----
-
-## 👥 Member — Qubits Technical Community
-**February 2026 – Present**
-
-- Participating in technical discussions and learning sessions.
-- Collaborating with fellow students on projects and technology.
-- Continuously improving engineering knowledge through peer learning.
-
----
-
-# 🚀 Featured Projects
-
-> These are the repositories I'm actively building and improving. More projects will be added as I continue my software engineering journey.
-
-<details>
-<summary><b>🎓 Course Management System</b></summary>
-
-### Overview
-
-A web-based application designed to simplify course management for students and administrators.
-
-| Category | Details |
-|-----------|----------|
-| Status | In Development |
-| Technologies | HTML • SQL • SQLite |
-| Focus | Software Engineering |
-| Repository | ⭐ Pinned on Profile |
-
-### Learning Outcomes
-
-- Database Design
-- User Authentication
-- CRUD Operations
-- Project Architecture
-
-</details>
-
----
-
-<details>
-<summary><b>🤖 Upcoming AI Projects</b></summary>
-
-Projects currently under development.
-
-Future repositories will include:
-
-- AI Applications
-- Java Projects
-- Python Automation
-- Backend APIs
-- Database Projects
-- DSA Implementations
-
-Stay tuned 🚀
-
-</details>
-
----
-
-<details>
-<summary><b>💻 Java & DSA Repository</b></summary>
-
-A growing collection of:
-
-- Data Structures
-- Algorithms
-- Java Programs
-- Interview Questions
-- Practice Problems
-
-Designed to document my learning journey.
-
-</details>
-
----
-
-# 🏆 Certifications
-
-| Provider | Certification |
-|----------|---------------|
-| AICTE EduSkills | Android Development |
-| AICTE EduSkills | Cyber Security |
-| IBM SkillsBuild | Professional Learning Program |
-| Red Hat Academy | Enterprise Linux & Open Source Learning |
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/priyash_01">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/pr_priyash_4779">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📈 2026 Goals
-
-- ✅ Master Java
-- ✅ Build production-ready projects
-- ✅ Strengthen DSA skills
-- ✅ Learn Backend Development
-- ✅ Explore Artificial Intelligence
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
-
-  ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRIYASH-SINGH&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=PRIYASH-SINGH&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYASH-SINGH&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PRIYASH-SINGH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
----
-
-# 📈 Contribution Graph
+<!--
+  PROFILE CONFIGURATION
+  Replace PRIYASH-SINGH below only if your GitHub profile URL uses a different username.
+  The snake workflow does not need this change: it detects the repository owner automatically.
+-->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYASH-SINGH&theme=tokyo-night&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:5b21b6,100:7c3aed&height=190&section=header&text=Priyash%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%C2%B7%20Java%20Developer%20%C2%B7%20AI%20Explorer&descAlignY=56&descSize=18" alt="Priyash Singh profile header" width="100%" />
+
+<a href="https://github.com/PRIYASH-SINGH"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Learning+by+building.;Growing+with+Java+and+AI.;Turning+curiosity+into+useful+software." alt="Typing introduction" /></a>
+
+<a href="https://github.com/PRIYASH-SINGH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/priyash-singh-518109337"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pr.priyash.4779@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Priyash" /></a>
 
 </div>
 
----
+## About me
 
-# 🎯 Current Focus
+I’m **Priyash Singh**, a B.Tech Computer Science student at **IMS Engineering College, Ghaziabad**. I learn best by building: strengthening my Java, database, and problem-solving foundations while exploring how AI can make software more useful.
+
+> *“I put in the work when it is needed and learn by doing.”*
+
+- 🎓 B.Tech Computer Science · expected graduation **2028**
+- 🧠 Focused on Java, SQL, data structures, backend foundations, and AI fluency
+- 🌱 Open to meaningful internship, open-source, and collaboration opportunities
+- 🔭 Building a portfolio one real project at a time
+
+## Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,html,sqlite,git,github,vscode&theme=dark" alt="Java, Python, C, HTML, SQLite, Git, GitHub, and VS Code" />
+
+</div>
+
+| Area | Working with | Next focus |
+| :-- | :-- | :-- |
+| Languages | Java · Python · C · SQL · HTML | Stronger Java and DSA fundamentals |
+| Data | SQLite · SQL | Database design and backend integration |
+| Workflow | Git · GitHub · VS Code | Clean commits and project documentation |
+| AI journey | AI fluency · prompt engineering | ML fundamentals and practical LLM applications |
+
+## What I’m learning
 
 ```yaml
-Learning:
+now:
   - Advanced Java
   - Data Structures & Algorithms
+  - SQL and database foundations
+  - Backend development fundamentals
+
+exploring:
   - Artificial Intelligence
-  - Backend Development
-  - SQL
+  - AI-assisted development
+  - LLM applications
 
-Building:
-  - Course Management System
-  - Java Projects
-  - AI Projects
-  - GitHub Portfolio
-
-Exploring:
-  - Open Source
-  - Software Engineering
-  - AI Engineering
-
-Open_To:
-  - Internship Opportunities
-  - Open Source Collaboration
-  - Learning & Networking
+building:
+  - Practical Java and Python projects
+  - A stronger GitHub portfolio
 ```
 
----
+## Experience & community
 
-# 🤝 Let's Connect
+| Role | Organisation | Since | Focus |
+| :-- | :-- | :-- | :-- |
+| Software Development Intern | Nimblize | June 2026 | Backend concepts, engineering workflow, and technical collaboration |
+| Software Development Intern — self projects | Prodigy Infotech | July 2026 | Building practical projects and strengthening GitHub-based development habits |
+| Member | Qubits Technical Community | February 2026 | Peer learning, technical discussions, and collaboration |
+
+## Featured work
 
 <div align="center">
 
-<a href="mailto:pr.priyash.4779@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 📌 My best work lives in my pinned repositories
 
-<a href="https://www.linkedin.com/in/priyash-singh-518109337">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<sub>I’m actively building and improving projects. Pinning a repository here is my way of keeping this section honest and current.</sub>
 
-<a href="https://github.com/PRIYASH-SINGH">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
+
+<details>
+<summary><b>What you can expect to find</b></summary>
+
+<br />
+
+- Java programs and data-structures-and-algorithms practice
+- SQL and database-focused work
+- Practical web and backend foundations
+- Python automation and future AI experiments
+
+</details>
+
+## Learning credentials
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AICTE%20EduSkills-Android%20Development-6D28D9?style=for-the-badge" alt="AICTE EduSkills Android Development" />
+<img src="https://img.shields.io/badge/AICTE%20EduSkills-Cyber%20Security-6D28D9?style=for-the-badge" alt="AICTE EduSkills Cyber Security" />
+<br />
+<img src="https://img.shields.io/badge/IBM-SkillsBuild-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild" />
+<img src="https://img.shields.io/badge/Red%20Hat-Academy-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Academy" />
+
+</div>
+
+## Coding profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/priyash_01"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
+<a href="https://www.hackerrank.com/profile/pr_priyash_4779"><img src="https://img.shields.io/badge/HackerRank-00A86B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" /></a>
+
+</div>
+
+## Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRIYASH-SINGH/PRIYASH-SINGH/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRIYASH-SINGH/PRIYASH-SINGH/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving through Priyash's contribution graph" src="https://raw.githubusercontent.com/PRIYASH-SINGH/PRIYASH-SINGH/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>The animation appears after the included GitHub Actions workflow runs once.</sub>
 
 </div>
 
@@ -309,14 +130,10 @@ Open_To:
 
 <div align="center">
 
-## 💭 Engineering Philosophy
+**Build steadily. Learn deeply. Make the next version better.**
 
-*"Great engineers aren't defined by what they already know, but by how consistently they learn, build, and improve."*
+<a href="mailto:pr.priyash.4779@gmail.com">Let’s connect</a> · <a href="https://www.linkedin.com/in/priyash-singh-518109337">LinkedIn</a> · <a href="https://github.com/PRIYASH-SINGH">GitHub</a>
 
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider ⭐ starring my repositories and connecting with me.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:5b21b6,100:7c3aed&height=100&section=footer" alt="Purple wave footer" width="100%" />
 
 </div>

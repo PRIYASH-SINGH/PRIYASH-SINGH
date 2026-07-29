@@ -226,3 +226,102 @@ Designed to document my learning journey.
 - ✅ Explore Artificial Intelligence
 - ✅ Contribute to Open Source
 - ✅ Secure a Software Engineering Internship
+
+  ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyash-0001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyash-0001&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyash-0001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyash-0001&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyash-0001&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Java
+  - Data Structures & Algorithms
+  - Artificial Intelligence
+  - Backend Development
+  - SQL
+
+Building:
+  - Course Management System
+  - Java Projects
+  - AI Projects
+  - GitHub Portfolio
+
+Exploring:
+  - Open Source
+  - Software Engineering
+  - AI Engineering
+
+Open_To:
+  - Internship Opportunities
+  - Open Source Collaboration
+  - Learning & Networking
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:pr.priyash.4779@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priyash-singh-518109337">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/priyash-0001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Engineering Philosophy
+
+*"Great engineers aren't defined by what they already know, but by how consistently they learn, build, and improve."*
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
+</div>
